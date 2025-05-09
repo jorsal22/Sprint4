@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Best Buy Product Classification
 
 This project focuses on classifying products from BestBuy.com into predefined categories based on the dataset provided. The main objective is to perform a product classification task. To do so, you'll have a list of products with their descriptions and images. In order to classify these products, you'll need to preprocess the data, extract features from images and text (embeddings), using pre-trained deep learning models, and then train machine learning models to predict the product category.
@@ -309,3 +310,4 @@ To submit the project, you need to provide the files in the following folders in
 - README.md
 
 **The files in the `data/` and `Embeddings/` folders are not necessary, since they are too large. Please don't include those files in the zip file.**
+
